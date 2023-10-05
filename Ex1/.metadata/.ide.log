@@ -665,3 +665,35 @@
 2023-10-05 18:09:12,276 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2572mS.
 2023-10-05 18:09:12,276 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
 2023-10-05 18:09:12,280 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2023-10-05 18:49:17,291 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 761325824 Bytes (1020264448)
+2023-10-05 18:49:18,170 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 785341592 Bytes (1020264448)
+2023-10-05 18:49:18,354 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 836818672 Bytes (1020264448)
+2023-10-05 18:49:18,682 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2023-10-05 18:49:18,682 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2023-10-05 18:49:18,682 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2023-10-05 18:49:18,682 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2023-10-05 18:49:18,682 [INFO] CodeGenerator:663 - code generatio: config db path: E:\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2023-10-05 18:49:19,062 [INFO] CodeEngine:239 - oldGeneratedFile, E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\MXTmpFiles\license.tmp_save
+2023-10-05 18:49:19,142 [INFO] CodeEngine:257 - Generated code: E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\MXTmpFiles\license.tmp
+2023-10-05 18:49:19,158 [INFO] CodeEngine:239 - oldGeneratedFile, E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\MXTmpFiles\gpio.tmp_save
+2023-10-05 18:49:19,242 [INFO] CodeEngine:257 - Generated code: E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\MXTmpFiles\gpio.tmp
+2023-10-05 18:49:19,274 [INFO] CodeEngine:239 - oldGeneratedFile, E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\Core\Src\stm32f1xx_it.c_save
+2023-10-05 18:49:19,442 [INFO] CodeEngine:257 - Generated code: E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\Core\Src\stm32f1xx_it.c
+2023-10-05 18:49:19,446 [INFO] CodeEngine:239 - oldGeneratedFile, E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\Core\Inc\stm32f1xx_it.h_save
+2023-10-05 18:49:19,518 [INFO] CodeEngine:257 - Generated code: E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\Core\Inc\stm32f1xx_it.h
+2023-10-05 18:49:19,534 [INFO] CodeEngine:239 - oldGeneratedFile, E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\Core\Src\stm32f1xx_hal_msp.c_save
+2023-10-05 18:49:19,658 [INFO] CodeEngine:257 - Generated code: E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\Core\Src\stm32f1xx_hal_msp.c
+2023-10-05 18:49:19,662 [INFO] CodeEngine:239 - oldGeneratedFile, E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\MXTmpFiles\system.tmp_save
+2023-10-05 18:49:19,750 [INFO] CodeEngine:257 - Generated code: E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\MXTmpFiles\system.tmp
+2023-10-05 18:49:19,770 [INFO] CodeEngine:239 - oldGeneratedFile, E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\Core\Inc\stm32f1xx_hal_conf.h_save
+2023-10-05 18:49:19,886 [INFO] CodeEngine:257 - Generated code: E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\Core\Inc\stm32f1xx_hal_conf.h
+2023-10-05 18:49:19,918 [INFO] CodeEngine:239 - oldGeneratedFile, E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\Core\Inc\main.h_save
+2023-10-05 18:49:20,014 [INFO] CodeEngine:257 - Generated code: E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\Core\Inc\main.h
+2023-10-05 18:49:20,026 [INFO] CodeEngine:239 - oldGeneratedFile, E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\Core\Src\main.c_save
+2023-10-05 18:49:20,166 [INFO] CodeEngine:257 - Generated code: E:\STM32CubeIDE_1.7.0\MCU LAB\LAB2\Ex1\LAB2_Ex1\Core\Src\main.c
+2023-10-05 18:49:21,106 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 64mS.
+2023-10-05 18:49:21,110 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2023-10-05 18:49:21,562 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2023-10-05 18:49:23,474 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 2364mS.
+2023-10-05 18:49:23,474 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2023-10-05 18:49:23,474 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.

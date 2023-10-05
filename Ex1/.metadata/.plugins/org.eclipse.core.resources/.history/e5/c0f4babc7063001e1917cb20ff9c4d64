@@ -91,17 +91,11 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  int count_red, count_yel, count_green;
-  count_red = 5;
-  count_yel = 2;
-  count_green = 3;
-  // SET TẮT
   while (1)
   {
-	  HAL_Toggle(RED);
-
     /* USER CODE END WHILE */
-
+	  HAL_GPIO_TogglePin(LED1_GPIO_Port, LED1_Pin);
+	  HAL_Delay(1000);
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
